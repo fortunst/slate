@@ -3141,7 +3141,7 @@ Status|Meaning|Description
 <aside class="success">
 This operation does not require authentication
 </aside>
-
+# advancedmobiledevicesearches
 ## findAdvancedMobileDeviceSearches
 
 > Code samples
@@ -4336,7 +4336,7 @@ Status|Meaning|Description
 <aside class="success">
 This operation does not require authentication
 </aside>
-
+# advancedusersearches
 ## findAdvancedUserSearches
 
 > Code samples
@@ -5506,7 +5506,7 @@ Status|Meaning|Description
 <aside class="success">
 This operation does not require authentication
 </aside>
-
+# allowedfileextensions
 ## findAllowedFileExtension
 
 > Code samples
@@ -6159,7 +6159,7 @@ Status|Meaning|Description
 <aside class="success">
 This operation does not require authentication
 </aside>
-
+# buildings
 ## findBuildings
 
 > Code samples
@@ -7190,7 +7190,7 @@ Status|Meaning|Description
 <aside class="success">
 This operation does not require authentication
 </aside>
-
+# byoprofiles
 ## findBYOProfiles
 
 > Code samples
@@ -8257,7 +8257,7 @@ Status|Meaning|Description
 <aside class="success">
 This operation does not require authentication
 </aside>
-
+# categories
 ## findCategories
 
 > Code samples
