@@ -26,7 +26,7 @@ Base URL = <a href="http://example.com/JSSResource">http://example.com/JSSResour
 Email: <a href="mailto:developer.relations@jamf.com">Developer Relations</a>Web: <a href="http://www.jamf.com">Developer Relations</a>
 License: <a href="http://www.jamf.com">Jamf Pro Customer API License</a>
 
-# Default
+# accounts
 
 ## findAccounts
 
@@ -1977,6 +1977,7 @@ Status|Meaning|Description
 <aside class="success">
 This operation does not require authentication
 </aside>
+# advancedcomputersearches
 
 ## findAdvancedComputerSearches
 
